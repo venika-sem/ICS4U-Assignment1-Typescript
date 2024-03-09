@@ -1,10 +1,8 @@
 /**
-*
 * This program plays rock paper scissors with the user
-*
-* By:      Cristiano Sellitto
+* Author: Venika Se,
 * Version: 1.0
-* Since:   2024-03-01
+* Since: Mar-2024
 */
 
 import { createPrompt } from 'bun-promptx'
